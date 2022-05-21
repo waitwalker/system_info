@@ -2,7 +2,6 @@ name: system_info # 插件名称
 description: A new Flutter project. # 描述
 version: 0.0.1 # 版本
 homepage: https://github.com/waitwalker/system_info.git # 代码托管地址
-publish_to: https://pub.dev/ # pub仓库地址，如果是发布到官网pub仓库，可以不填
 
 # 指定适用SDK版本
 environment:
